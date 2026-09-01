@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
+activity_log.txt
+security_logs_*.txt
+
+# Snapshots / generated files
+snapshots/
+
+# Email configuration / credentials
+email_config.json
+email_config.sec
+App password[Email].txt
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
